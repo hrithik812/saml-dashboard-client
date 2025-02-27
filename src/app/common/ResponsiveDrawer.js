@@ -188,7 +188,7 @@ const ResponsiveDrawer = ({ children }) => {
           </IconButton>
 
           <Typography variant="h6" noWrap sx={{ flexGrow: 1, fontWeight: "bold" }}>
-            Shanta Securities Limited
+            Shanta Asset Management Limited
           </Typography>
 
           <Box sx={{ display: "flex", alignItems: "center", gap: 1 }}>
